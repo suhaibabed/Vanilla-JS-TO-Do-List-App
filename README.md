@@ -1,4 +1,4 @@
-# After Back From The War - Todo List App
+# I stopped coding because of the war – a new beginning with the To-Do List app.
 [https://67c2d4e39c80f469df7d3265--glistening-snickerdoodle-1c365e.netlify.app/]
 
 ## Overview
